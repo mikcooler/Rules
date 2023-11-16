@@ -13,3 +13,20 @@ payload:
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,stripe.com
+#
+  - DOMAIN-SUFFIX,hcaptcha.com
+  - DOMAIN-SUFFIX,recaptcha.net
+  - DOMAIN-SUFFIX,gstatic.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt3.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,azurefd.net
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,oaiusercontent.com
