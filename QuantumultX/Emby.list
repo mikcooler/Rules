@@ -1,4 +1,11 @@
-# Emby
+# NAME: Emby
+# AUTHOR: justdoiting
+# REPO: https://github.com/justdoiting/emby-rules
+# UPDATED: 2023-02-15 23:47:08
+# HOST: 1
+# HOST-KEYWORemby.flowercloud.ytD: 3
+# HOST-SUFFIX: 34
+# TOTAL: 38
 HOST,emby.enjoyit.eu.org,Emby
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
 HOST-SUFFIX,agajp1.jmsooo.com,Emby
@@ -24,9 +31,20 @@ HOST-SUFFIX,emby.prprcloud.com,Emby
 HOST-SUFFIX,emby.wtf,Emby
 HOST-SUFFIX,emby.xeton.dev,Emby
 HOST-SUFFIX,emby.ytoo.li,Emby
+#music
+HOST-SUFFIX,music.mefun.org,Emby
+HOST-SUFFIX,chunmusic.imetyou.top,Emby
+HOST-SUFFIX,cfmusic.imetyou.top,Emby
+#
+HOST-SUFFIX,cc.coemn.com,Emby
+HOST-SUFFIX,flare.catlinks.co.uk,Emby
+HOST-SUFFIX,emby-us-v4.mius.uk,Emby
+HOST-SUFFIX,film.hovervan.org,Emby
+HOST-SUFFIX,cf.imetyou.top,Emby
+HOST-SUFFIX,,Emby
+HOST-SUFFIX,film.reddust.link,Emby
 HOST-SUFFIX,gd.9521732.xyz,Emby
 HOST-SUFFIX,emby3.mcjoker.xyz,Emby
-HOST-SUFFIX,chunmusic.imetyou.top,Emby
 HOST-SUFFIX,main.gugumedia.link,Emby
 HOST-SUFFIX,front.gugumedia.link,Emby
 HOST-SUFFIX,test.gugumedia.link,Emby
