@@ -28,6 +28,8 @@ payload:
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
   - DOMAIN-SUFFIX,cfmusic.imetyou.top
 #
+  - DOMAIN-SUFFIX,z.sfcj.org
+  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   - DOMAIN-SUFFIX,emby.apopcloud.live
   - DOMAIN-SUFFIX,tv.811861.xyz
   - DOMAIN-SUFFIX,nanflix.net
