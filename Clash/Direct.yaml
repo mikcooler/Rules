@@ -1,0 +1,12 @@
+# 自用规则
+payload:
+# 小红书
+  - DOMAIN-SUFFIX,xiaohongshu.com
+# 抖音
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,amemv.com
+# Bilibili登录
+  - DOMAIN-SUFFIX,mall.bilibili.com
+  - DOMAIN-SUFFIX,passport.bilibili.com
+# 亚马逊中国
+  - DOMAIN-SUFFIX,amazon.cn
