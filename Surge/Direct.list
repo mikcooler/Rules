@@ -1,0 +1,13 @@
+# 自用规则
+# 小红书
+DOMAIN-SUFFIX,xiaohongshu.com,DIRECT
+# 抖音本地分流
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,amemv.com,DIRECT
+# bilibili登陆
+DOMAIN-SUFFIX,mall.bilibili.com,DIRECT
+DOMAIN-SUFFIX,passport.bilibili.com,DIRECT
+# 头条搜索
+DOMAIN-SUFFIX,is.snssdk.com,DIRECT
+# 亚马逊
+DOMAIN-SUFFIX,amazon.cn,DIRECT
