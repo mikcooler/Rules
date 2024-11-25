@@ -4,11 +4,9 @@ DOMAIN-SUFFIX,xiaohongshu.com
 # 抖音本地分流
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,amemv.com
-# bilibili登陆
+# Bilibili登陆
 DOMAIN-SUFFIX,mall.bilibili.com
 DOMAIN-SUFFIX,passport.bilibili.com
-# 头条搜索
-DOMAIN-SUFFIX,is.snssdk.com
 # 亚马逊
 DOMAIN-SUFFIX,amazon.cn
 # 10099
