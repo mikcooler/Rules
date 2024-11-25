@@ -1,6 +1,6 @@
 # 自用规则
-# NAME: Max
 payload:
+# NAME: Max
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
   - DOMAIN-SUFFIX,media.h264.io
