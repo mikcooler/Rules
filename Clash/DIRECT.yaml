@@ -1,4 +1,3 @@
-# 自用规则
 payload:
 # 小红书
   - DOMAIN-SUFFIX,xiaohongshu.com
