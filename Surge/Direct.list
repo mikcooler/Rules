@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,passport.bilibili.com
 DOMAIN-SUFFIX,is.snssdk.com
 # 亚马逊
 DOMAIN-SUFFIX,amazon.cn
+# 10099
+DOMAIN-SUFFIX,10099.com.cn
