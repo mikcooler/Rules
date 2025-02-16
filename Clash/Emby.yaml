@@ -28,6 +28,10 @@ payload:
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
   - DOMAIN-SUFFIX,cfmusic.imetyou.top
 #
+  - DOMAIN-SUFFIX,as174.de
+  - DOMAIN-SUFFIX,cf.bili.rip
+  - DOMAIN-SUFFIX,favoritewife.com
+  - DOMAIN-SUFFIX,vfing.de
   - DOMAIN-SUFFIX,temby856.285286.xyz
   - DOMAIN-SUFFIX,pppp.us.kg
   - DOMAIN-SUFFIX,saturday.video
@@ -43,10 +47,7 @@ payload:
   - DOMAIN-SUFFIX,oversea.alphatvapp.top
   - DOMAIN-SUFFIX,emby.apopcloud.live
   - DOMAIN-SUFFIX,emby.awatv.de
-  - DOMAIN-SUFFIX,emby-micax-ca-v2.mius.uk
-  - DOMAIN-SUFFIX,emby-mica-us-v1.mius.uk
-  - DOMAIN-SUFFIX,emby-mica-hk-v4.mius.uk
-  - DOMAIN-SUFFIX,emby-mica-yxvm-hk-v4.mius.uk
+  - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,z.sfcj.org
   - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   - DOMAIN-SUFFIX,emby.apopcloud.live
