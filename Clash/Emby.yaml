@@ -20,65 +20,66 @@ payload:
   - DOMAIN-SUFFIX,emby.ok.edu.hk
   - DOMAIN-SUFFIX,emby.paoche.ooo
   - DOMAIN-SUFFIX,emby.prprcloud.com
-  - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,emby.ytoo.li
 #music
   - DOMAIN-SUFFIX,music.mefun.org
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
   - DOMAIN-SUFFIX,cfmusic.imetyou.top
-#
+##
+  - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,poloemby.xyz
   - DOMAIN-SUFFIX,as174.de
   - DOMAIN-SUFFIX,cf.bili.rip
-  - DOMAIN-SUFFIX,favoritewife.com
-  - DOMAIN-SUFFIX,vfing.de
-  - DOMAIN-SUFFIX,temby856.285286.xyz
-  - DOMAIN-SUFFIX,pppp.us.kg
-  - DOMAIN-SUFFIX,saturday.video
-  - DOMAIN-SUFFIX,1024.name
   - DOMAIN-SUFFIX,jmsuper.com
+  - DOMAIN-SUFFIX,emby.pro
+  - DOMAIN-SUFFIX,nebula-media.org
+  - DOMAIN-SUFFIX,coemn.com
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,misty.cx
+  - DOMAIN-SUFFIX,285286.xyz
   - DOMAIN-SUFFIX,tanhuatv.site
   - DOMAIN-SUFFIX,auroramedia.vip
-  - DOMAIN-SUFFIX,embycc.link
-  - DOMAIN-SUFFIX,nebula-media.org
   - DOMAIN-SUFFIX,yhemby.top
   - DOMAIN-SUFFIX,581658.best
   - DOMAIN-SUFFIX,7777777.buzz
+  - DOMAIN-SUFFIX,gtlx.org
+  - DOMAIN-SUFFIX,charontv.com
+  - DOMAIN-SUFFIX,favoritewife.com
+  - DOMAIN-SUFFIX,vfing.de
+  - DOMAIN-SUFFIX,1024.name
+  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN-SUFFIX,itsmyduty.top
+  - DOMAIN-SUFFIX,mcjoker.xyz
+  - DOMAIN-SUFFIX,catlinks.co.uk
+  - DOMAIN-SUFFIX,mius.uk
+  - DOMAIN-SUFFIX,9191001.xyz
+  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,nijigem.by
+  - DOMAIN-SUFFIX,cf.imetyou.top
+#
+  - DOMAIN-SUFFIX,pppp.us.kg
+  - DOMAIN-SUFFIX,saturday.video
+  - DOMAIN-SUFFIX,embycc.link
   - DOMAIN-SUFFIX,oversea.alphatvapp.top
   - DOMAIN-SUFFIX,emby.apopcloud.live
   - DOMAIN-SUFFIX,emby.awatv.de
-  - DOMAIN-SUFFIX,mius.uk
-  - DOMAIN-SUFFIX,z.sfcj.org
-  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
   - DOMAIN-SUFFIX,emby.apopcloud.live
   - DOMAIN-SUFFIX,tv.811861.xyz
   - DOMAIN-SUFFIX,nanflix.net
-  - DOMAIN-SUFFIX,misty.cx
-  - DOMAIN-SUFFIX,cc.coemn.com
-  - DOMAIN-SUFFIX,flare.catlinks.co.uk
-  - DOMAIN-SUFFIX,emby-us-v4.mius.uk
   - DOMAIN-SUFFIX,film.hovervan.org
-  - DOMAIN-SUFFIX,cf.imetyou.top
   - DOMAIN-SUFFIX,film.reddust.link
   - DOMAIN-SUFFIX,gd.9521732.xyz
-  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
-  - DOMAIN-SUFFIX,main.gugumedia.link
-  - DOMAIN-SUFFIX,front.gugumedia.link
-  - DOMAIN-SUFFIX,test.gugumedia.link
+  - DOMAIN-SUFFIX,gugumedia.link
   - DOMAIN-SUFFIX,cf.otv.icu
   - DOMAIN-SUFFIX,otv.icu
-  - DOMAIN-SUFFIX,emby.mius.uk
   - DOMAIN-SUFFIX,emby.dicarerhome.com
   - DOMAIN-SUFFIX,emby.lzlz.cc
-  - DOMAIN-SUFFIX,one.mulgore.net
-  - DOMAIN-SUFFIX,two.mulgore.net
+  - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,202.61.255.248
   - DOMAIN-SUFFIX,ca.emby.ml
   - DOMAIN-SUFFIX,cfca.emby.ml
-  - DOMAIN-SUFFIX,cfde.xmsl.org
-  - DOMAIN-SUFFIX,de.xmsl.org
-  - DOMAIN-SUFFIX,line.xmsl.org
   - DOMAIN-SUFFIX,1.loseremby.org
   - DOMAIN-SUFFIX,embyserver.ga
   - DOMAIN-SUFFIX,hinet.jmsooo.com
@@ -99,50 +100,30 @@ payload:
   - DOMAIN-SUFFIX,singularity.deja-vu.beauty
   - DOMAIN-SUFFIX,emby.wiri.tk
   - DOMAIN-SUFFIX,cfemby.wiri.tk
-  - DOMAIN-SUFFIX,de.mjjemby.org
-  - DOMAIN-SUFFIX,cf.mjjemby.org
-  - DOMAIN-SUFFIX,sg01.mjjemby.org
-  - DOMAIN-SUFFIX,jp01.mjjemby.org
-  - DOMAIN-SUFFIX,kr02.mjjemby.org
-  - DOMAIN-SUFFIX,jp02.mjjemby.org
+  - DOMAIN-SUFFIX,mjjemby.org
   - DOMAIN-SUFFIX,114.96.109.46
   - DOMAIN-SUFFIX,infinityfly.top
   - DOMAIN-SUFFIX,emby.jzq.lol
   - DOMAIN-SUFFIX,cf.watchemby.net
-  - DOMAIN-SUFFIX,emby-1.wiri.tk
-  - DOMAIN-SUFFIX,emby-2.wiri.tk
-  - DOMAIN-SUFFIX,emby-3.wiri.tk
-  - DOMAIN-SUFFIX,embyplus.org
-  - DOMAIN-SUFFIX,cf.gtlx.org
-  - DOMAIN-SUFFIX,cf.studyfun.live
-  - DOMAIN-SUFFIX,zz.studyfun.live
-  - DOMAIN-SUFFIX,4837.studyfun.live
-  - DOMAIN-SUFFIX,9929.studyfun.live
+  - DOMAIN-SUFFIX,wiri.tk
+  - DOMAIN-SUFFIX,studyfun.live
   - DOMAIN-SUFFIX,film.goodisp.org
   - DOMAIN-SUFFIX,emby.plusmedia.site
-  - DOMAIN-SUFFIX,pub1.emby.wtf
-  - DOMAIN-SUFFIX,pub2.emby.wtf
-  - DOMAIN-SUFFIX,pub3.emby.wtf
   - DOMAIN-SUFFIX,1.4545.cf
   - DOMAIN-SUFFIX,sana.emby.eu.org
   - DOMAIN-SUFFIX,emby.speedx.one
   - DOMAIN-SUFFIX,film.nmg.llc
   - DOMAIN-SUFFIX,23.emby77.cf
   - DOMAIN-SUFFIX,23s.casacam.net
-  - DOMAIN-SUFFIX,play.charontv.com
   - DOMAIN-SUFFIX,embymv.tk
   - DOMAIN-SUFFIX,kr.embymv.tk
   - DOMAIN-SUFFIX,cf.embytv.cf
   - DOMAIN-SUFFIX,embymv.me
   - DOMAIN-SUFFIX,jp.embymv.me
-  - DOMAIN-SUFFIX,media.nijigem.by
   - DOMAIN-SUFFIX,bili.bili.rip
   - DOMAIN-SUFFIX,embyjp.bili.rip
   - DOMAIN-SUFFIX,embyus.bili.rip
-  - DOMAIN-SUFFIX,emby.imetyou.top
-  - DOMAIN-SUFFIX,kr.imetyou.top
   - DOMAIN-SUFFIX,embyjp.222921.xyz
-  - DOMAIN-SUFFIX,emby.9191001.xyz
   - DOMAIN-SUFFIX,emby.jzq.lol
   - DOMAIN-SUFFIX,emby.222921.xyz
   - DOMAIN-SUFFIX,embyen.222921.xyz
@@ -161,9 +142,6 @@ payload:
   - DOMAIN-SUFFIX,cf.misakaf.org
   - DOMAIN-SUFFIX,push-kr.misakaf.org
   - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,df.poloemby.xyz
-  - DOMAIN-SUFFIX,cf.poloemby.xyz
-  - DOMAIN-SUFFIX,happy.poloemby.xyz
   - DOMAIN-SUFFIX,sp.pololine.ml
   - DOMAIN-SUFFIX,direct.nebula-emby.com
   - DOMAIN-SUFFIX,web.nebula-emby.com
@@ -171,9 +149,7 @@ payload:
   - DOMAIN-SUFFIX,cc.ccemby.tk
   - DOMAIN-SUFFIX,cf.jmsooo.com
   - DOMAIN-SUFFIX,ha.jmsooo.com
-  - DOMAIN-SUFFIX,t.emby.pro
   - DOMAIN-SUFFIX,drei.bgka.me
-  - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,nakonako.net
   - DOMAIN-SUFFIX,nakoemby.com
