@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,emby1.liustar.click
+  - DOMAIN-SUFFIX,embydmit.liustar.click
   - DOMAIN-SUFFIX,jz.mcjoker.xyz
   - DOMAIN-SUFFIX,cdn.misakaf.org
   - DOMAIN-SUFFIX,1.loseremby.org
