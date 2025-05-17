@@ -34,133 +34,133 @@ payload:
   - DOMAIN-SUFFIX,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-  - DOMAIN-KEYWORD, t-mobile
+  - DOMAIN-KEYWORD,t-mobile
   - DOMAIN-SUFFIX,depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,optimizely.com
   - DOMAIN-SUFFIX,redirect.ultra.me
   - DOMAIN-SUFFIX,ultramobile.com
 ############ UK-wifi-call
 # 地区检测
-  - DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 # 沃达丰
-  - DOMAIN-SUFFIX, epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX, ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX, ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX, entsrv-uk.vodafone.com
-  - DOMAIN-SUFFIX, vuk-gto.prod.ondemandconnectivity.com
+  - DOMAIN-SUFFIX,epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc015.mcc234.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,entsrv-uk.vodafone.com
+  - DOMAIN-SUFFIX,vuk-gto.prod.ondemandconnectivity.com
   - IP-CIDR,88.82.0.0/19
 # CMLinkUK EE
   - IP-CIDR,46.68.0.0/17
 # Giffgaff
   - IP-CIDR,87.194.0.0/16
 # Giffgaff登录
-  - DOMAIN-SUFFIX, giffgaff.com
+  - DOMAIN-SUFFIX,giffgaff.com
   # Skinny登录
-  - DOMAIN-SUFFIX, skinny.co.nz
+  - DOMAIN-SUFFIX,skinny.co.nz
 ############ UK
 # 英国银行
-  - DOMAIN-SUFFIX, online-metrix.net
-  - DOMAIN-SUFFIX, yapily.com
-#wise
-  - DOMAIN-SUFFIX, wise.com
-  - DOMAIN, tw-avatar.s3.eu-central-1.amazonaws.com
+  - DOMAIN-SUFFIX,online-metrix.net
+  - DOMAIN-SUFFIX,yapily.com
+# wise
+  - DOMAIN-SUFFIX,wise.com
+  - DOMAIN,tw-avatar.s3.eu-central-1.amazonaws.com
 # skrill
-  - DOMAIN-SUFFIX, skrill.com
-  - DOMAIN-SUFFIX, skrill.uk
+  - DOMAIN-SUFFIX,skrill.com
+  - DOMAIN-SUFFIX,skrill.uk
 # Chase
-  - DOMAIN-SUFFIX, chase.com
-  - DOMAIN-SUFFIX, chase.uk
-  - DOMAIN-SUFFIX, chase.co.uk
+  - DOMAIN-SUFFIX,chase.com
+  - DOMAIN-SUFFIX,chase.uk
+  - DOMAIN-SUFFIX,chase.co.uk
 # 信用查询
-  - DOMAIN-SUFFIX, creditkarma.co.uk
-  - DOMAIN-SUFFIX, totallymoney.uk
-  - DOMAIN-SUFFIX, totallymoney.com
-  - DOMAIN-SUFFIX, clearscore.com
-  - DOMAIN-KEYWORD, clearscore
-  - DOMAIN-SUFFIX, checkmyfile.com
-  - DOMAIN-SUFFIX, hellopillar.com
-  - DOMAIN-SUFFIX, pillar.money
-  - DOMAIN-SUFFIX, experian.co.uk
-  - DOMAIN-SUFFIX, experianidentityservice.co.uk
+  - DOMAIN-SUFFIX,creditkarma.co.uk
+  - DOMAIN-SUFFIX,totallymoney.uk
+  - DOMAIN-SUFFIX,totallymoney.com
+  - DOMAIN-SUFFIX,clearscore.com
+  - DOMAIN-KEYWORD,clearscore
+  - DOMAIN-SUFFIX,checkmyfile.com
+  - DOMAIN-SUFFIX,hellopillar.com
+  - DOMAIN-SUFFIX,pillar.money
+  - DOMAIN-SUFFIX,experian.co.uk
+  - DOMAIN-SUFFIX,experianidentityservice.co.uk
 # barclays
-  - DOMAIN-SUFFIX, barclays.co.uk
-  - DOMAIN-SUFFIX, barclays.com
-  - DOMAIN-SUFFIX, barclays.mobi
-  - DOMAIN, barclaysuk.sc.omtrdc.net
-  - DOMAIN, bclays-ads.aimatch.com
-  - DOMAIN-KEYWORD, barclays
+  - DOMAIN-SUFFIX,barclays.co.uk
+  - DOMAIN-SUFFIX,barclays.com
+  - DOMAIN-SUFFIX,barclays.mobi
+  - DOMAIN,barclaysuk.sc.omtrdc.net
+  - DOMAIN,bclays-ads.aimatch.com
+  - DOMAIN-KEYWORD,barclays
 # myguava
-  - DOMAIN-SUFFIX, guavapay.com
+  - DOMAIN-SUFFIX,guavapay.com
   - DOMAIN-KEYWORD,myguava
   - DOMAIN-KEYWORD,guavapay
 # 小马系列
-  - DOMAIN-SUFFIX, lloydsbank.co.uk
-  - DOMAIN-SUFFIX, amazontrust.com
-  - DOMAIN-SUFFIX, dynatrace.com
-  - DOMAIN-KEYWORD, lloydsbank
-  - DOMAIN-KEYWORD, halifax
-  - DOMAIN-SUFFIX, bankofscotland.co.uk
-  - DOMAIN-SUFFIX, tsb.co.uk
-  - DOMAIN-SUFFIX, demdex.net
-  - DOMAIN-SUFFIX, cm.everesttech.net
-  - DOMAIN-SUFFIX, omtrdc.net
+  - DOMAIN-SUFFIX,lloydsbank.co.uk
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,dynatrace.com
+  - DOMAIN-KEYWORD,lloydsbank
+  - DOMAIN-KEYWORD,halifax
+  - DOMAIN-SUFFIX,bankofscotland.co.uk
+  - DOMAIN-SUFFIX,tsb.co.uk
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,cm.everesttech.net
+  - DOMAIN-SUFFIX,omtrdc.net
 # ifast
-  - DOMAIN-SUFFIX, ifastgb.com
+  - DOMAIN-SUFFIX,ifastgb.com
 # wuzo
-  - DOMAIN-SUFFIX, wuzo.co.uk
-  - DOMAIN-SUFFIX, wuzo.com
-  - DOMAIN-SUFFIX, api.ipify.org
+  - DOMAIN-SUFFIX,wuzo.co.uk
+  - DOMAIN-SUFFIX,wuzo.com
+  - DOMAIN-SUFFIX,api.ipify.org
 # zilch
-  - DOMAIN-SUFFIX, payzilch.com
-  - DOMAIN-SUFFIX, eu.intercom.io
-  - DOMAIN-SUFFIX, verygoodvault.com
-  - DOMAIN-SUFFIX, verygood.systems
-  - DOMAIN-SUFFIX, appsflyer.com
+  - DOMAIN-SUFFIX,payzilch.com
+  - DOMAIN-SUFFIX,eu.intercom.io
+  - DOMAIN-SUFFIX,verygoodvault.com
+  - DOMAIN-SUFFIX,verygood.systems
+  - DOMAIN-SUFFIX,appsflyer.com
 # curve
-  - DOMAIN-SUFFIX, curve.app
-  - DOMAIN-SUFFIX, branch.io
-  - DOMAIN-SUFFIX, emb-api.com
-  - DOMAIN-SUFFIX, imaginecurve.com
+  - DOMAIN-SUFFIX,curve.app
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,emb-api.com
+  - DOMAIN-SUFFIX,imaginecurve.com
 # stripe
-  - DOMAIN-SUFFIX, stripe.com
-  - DOMAIN-SUFFIX, sprig.com
-  - DOMAIN-SUFFIX, stripe.uk
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,sprig.com
+  - DOMAIN-SUFFIX,stripe.uk
 # monzo
-  - DOMAIN-SUFFIX, monzo-alt.net
-  - DOMAIN-SUFFIX, monzo.com
-  - DOMAIN-SUFFIX, monzo.statuspage.io
-  - DOMAIN-SUFFIX, monzo.me
-  - DOMAIN-SUFFIX, nonprod-ffs.io
-  - DOMAIN-KEYWORD, monzo
+  - DOMAIN-SUFFIX,monzo-alt.net
+  - DOMAIN-SUFFIX,monzo.com
+  - DOMAIN-SUFFIX,monzo.statuspage.io
+  - DOMAIN-SUFFIX,monzo.me
+  - DOMAIN-SUFFIX,nonprod-ffs.io
+  - DOMAIN-KEYWORD,monzo
 # lemfi
-  - DOMAIN-SUFFIX, lemfi.com
-  - DOMAIN-SUFFIX, branch.io
-  - DOMAIN-SUFFIX, appsflyer.com
-  - DOMAIN-SUFFIX, customer.io
+  - DOMAIN-SUFFIX,lemfi.com
+  - DOMAIN-SUFFIX,branch.io
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,customer.io
 # freetrade
-  - DOMAIN-SUFFIX, freetrade.io
-  - DOMAIN-SUFFIX, algolia.net
-  - DOMAIN-SUFFIX, asnapieu.com
+  - DOMAIN-SUFFIX,freetrade.io
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,asnapieu.com
 # 212
-  - DOMAIN-SUFFIX, trading212.com
-  - DOMAIN-SUFFIX, appsflyersdk.com
-  - DOMAIN-KEYWORD, trading212
+  - DOMAIN-SUFFIX,trading212.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  - DOMAIN-KEYWORD,trading212
 # aqua
-  - DOMAIN-SUFFIX, newdaycards.com
-  - DOMAIN-KEYWORD, newdaycards
+  - DOMAIN-SUFFIX,newdaycards.com
+  - DOMAIN-KEYWORD,newdaycards
 # moneybox
-  - DOMAIN-SUFFIX, moneyboxapp.com
-  - DOMAIN-SUFFIX, browser-intake-datadoghq.eu
+  - DOMAIN-SUFFIX,moneyboxapp.com
+  - DOMAIN-SUFFIX,browser-intake-datadoghq.eu
 # paysend
-  - DOMAIN-SUFFIX, paysend.io
+  - DOMAIN-SUFFIX,paysend.io
 # hsbc uk
-  - DOMAIN-SUFFIX, hsbc.co.uk
+  - DOMAIN-SUFFIX,hsbc.co.uk
 # topcashback
-  - DOMAIN-SUFFIX, topcashback.com
+  - DOMAIN-SUFFIX,topcashback.com
 # kroo
-  - DOMAIN-SUFFIX, kroo.com
+  - DOMAIN-SUFFIX,kroo.com
 # uphold
-  - DOMAIN-SUFFIX, uphold.com
+  - DOMAIN-SUFFIX,uphold.com
 # yonder
   - DOMAIN-SUFFIX,yondercard.com
 # jaja
