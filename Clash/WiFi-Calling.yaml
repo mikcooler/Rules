@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX, ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org
   - DOMAIN-SUFFIX, ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org
 ############ US-wifi-call
+# KnowRoaming登录
+  - DOMAIN-SUFFIX,knowroaming.com
 # talkatone
   - DOMAIN-SUFFIX,mobilefuse.com
   - DOMAIN-SUFFIX,inmobi.com
@@ -51,6 +53,10 @@ payload:
   - IP-CIDR,46.68.0.0/17
 # Giffgaff
   - IP-CIDR,87.194.0.0/16
+# Giffgaff登录
+  - DOMAIN-SUFFIX, giffgaff.com
+  # Skinny登录
+  - DOMAIN-SUFFIX, skinny.co.nz
 ############ UK
 # 英国银行
   - DOMAIN-SUFFIX, online-metrix.net
