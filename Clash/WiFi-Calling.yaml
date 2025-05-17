@@ -55,7 +55,7 @@ payload:
   - IP-CIDR,87.194.0.0/16
 # Giffgaff登录
   - DOMAIN-SUFFIX,giffgaff.com
-  # Skinny登录
+# Skinny登录
   - DOMAIN-SUFFIX,skinny.co.nz
 ############ UK
 # 英国银行
