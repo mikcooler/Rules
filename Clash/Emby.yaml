@@ -27,8 +27,10 @@ payload:
   - DOMAIN-SUFFIX,chunmusic.imetyou.top
   - DOMAIN-SUFFIX,cfmusic.imetyou.top
 ##
-  - DOMAIN-SUFFIX,b1.zdz.plus
-  - DOMAIN-SUFFIX,b2.zdz.plus
+  - DOMAIN-SUFFIX,xxlb.net
+  - DOMAIN-SUFFIX,carryz.net
+  - DOMAIN-SUFFIX,bgp.yt
+  - DOMAIN-SUFFIX,zdz.plus
   - DOMAIN-SUFFIX,nubebelle.vip
   - DOMAIN-SUFFIX,mjji.de
   - DOMAIN-SUFFIX,3767483.xyz
@@ -58,7 +60,7 @@ payload:
   - DOMAIN-SUFFIX,poloemby.xyz
   - DOMAIN-SUFFIX,as174.de
   - DOMAIN-SUFFIX,bili.rip
-  - DOMAIN-SUFFIX,emby.cn2gias.uk
+  - DOMAIN-SUFFIX,cn2gias.uk
   - DOMAIN-SUFFIX,jmsuper.com
   - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,nebula-media.org
@@ -100,13 +102,12 @@ payload:
   - DOMAIN-SUFFIX,nanflix.net
   - DOMAIN-SUFFIX,film.hovervan.org
   - DOMAIN-SUFFIX,film.reddust.link
-  - DOMAIN-SUFFIX,gd.9521732.xyz
+  - DOMAIN-SUFFIX,9521732.xyz
   - DOMAIN-SUFFIX,gugumedia.link
   - DOMAIN-SUFFIX,cf.otv.icu
   - DOMAIN-SUFFIX,otv.icu
   - DOMAIN-SUFFIX,emby.dicarerhome.com
   - DOMAIN-SUFFIX,emby.lzlz.cc
-  - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,202.61.255.248
   - DOMAIN-SUFFIX,ca.emby.ml
