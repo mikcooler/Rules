@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,xxlb.net
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,bgp.yt
-  - DOMAIN-SUFFIX,zdz.plus
+#  - DOMAIN-SUFFIX,zdz.plus
   - DOMAIN-SUFFIX,nubebelle.vip
   - DOMAIN-SUFFIX,nubebelle.cn
   - DOMAIN-SUFFIX,mjji.de
