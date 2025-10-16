@@ -9,7 +9,7 @@ payload:
   - DOMAIN-SUFFIX,xxlb.net
   - DOMAIN-SUFFIX,carryz.net
   - DOMAIN-SUFFIX,bgp.yt
-#  - DOMAIN-SUFFIX,zdz.plus
+  - DOMAIN-SUFFIX,zdz.plus
   - DOMAIN-SUFFIX,nubebelle.vip
   - DOMAIN-SUFFIX,nubebelle.cn
   - DOMAIN-SUFFIX,mjji.de
@@ -159,5 +159,3 @@ payload:
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,nakonako.net
   - DOMAIN-SUFFIX,nakoemby.com
-  - DOMAIN-KEYWORD,emby.wtf
-  - DOMAIN-KEYWORD,odysseyplus
