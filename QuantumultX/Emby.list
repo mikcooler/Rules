@@ -115,7 +115,6 @@ HOST-SUFFIX,otv.icu,Emby
 HOST-SUFFIX,dicarerhome.com,Emby
 HOST-SUFFIX,lzlz.cc,Emby
 HOST-SUFFIX,mulgore.net,Emby
-HOST-SUFFIX,202.61.255.248,Emby
 HOST-SUFFIX,emby.ml,Emby
 HOST-SUFFIX,loseremby.org,Emby
 HOST-SUFFIX,embyserver.ga,Emby
@@ -133,7 +132,6 @@ HOST-SUFFIX,acemby.org,Emby
 HOST-SUFFIX,deja-vu.beauty,Emby
 HOST-SUFFIX,wiri.tk,Emby
 HOST-SUFFIX,mjjemby.org,Emby
-HOST-SUFFIX,114.96.109.46,Emby
 HOST-SUFFIX,infinityfly.top,Emby
 HOST-SUFFIX,jzq.lol,Emby
 HOST-SUFFIX,watchemby.net,Emby
@@ -169,3 +167,7 @@ HOST-SUFFIX,bgka.me,Emby
 HOST-SUFFIX,misty.ltd,Emby
 HOST-SUFFIX,nakonako.net,Emby
 HOST-SUFFIX,nakoemby.com,Emby
+#
+IP-CIDR,202.61.255.248/32,Emby
+IP-CIDR,114.96.109.46/32,Emby
+IP-CIDR,46.3.109.178/32,Emby
